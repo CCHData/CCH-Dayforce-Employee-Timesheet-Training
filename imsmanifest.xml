@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.63ebced63b182_1676398341" version="1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd
+                       http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+      </metadata>
+  <!-- There is just one organization. The organization contains just one item.-->
+    <organizations default="elucidat_63ebced63b182_1676398341">
+        <organization identifier="elucidat_63ebced63b182_1676398341">
+            <title>Dayforce Training - Hourly/Salary Timesheet</title>
+            <item identifier="item_63ebced63b182_1676398341" identifierref="resource_63ebced63b182_1676398341">
+                <title>Dayforce Training - Hourly/Salary Timesheet</title>
+                <adlcp:masteryscore>80</adlcp:masteryscore>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource_63ebced63b182_1676398341" type="webcontent" adlcp:scormtype="sco" href="launch.html">
+           <file href="vendor/mediaelement/background.png"/>
+           <file href="vendor/mediaelement/silverlightmediaelement.xap"/>
+           <file href="vendor/mediaelement/controls-ted.png"/>
+           <file href="vendor/mediaelement/controls.svg"/>
+           <file href="vendor/mediaelement/controls.png"/>
+           <file href="vendor/mediaelement/controls-wmp-bg.png"/>
+           <file href="vendor/mediaelement/loading.gif"/>
+           <file href="vendor/mediaelement/bigplay.svg"/>
+           <file href="vendor/mediaelement/bigplay.png"/>
+           <file href="vendor/mediaelement/flashmediaelement-cdn.swf"/>
+           <file href="vendor/mediaelement/flashmediaelement-cdn-2.22.0.swf"/>
+           <file href="vendor/mediaelement/controls-wmp.png"/>
+           <file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+           <file href="vendor/mediaelement/flashmediaelement.swf"/>
+           <file href="vendor/modernizr-2.6.2.min.js"/>
+           <file href="vendor/material/icomoon.ttf"/>
+           <file href="vendor/material/icomoon.eot"/>
+           <file href="vendor/material/icomoon.svg"/>
+           <file href="vendor/material/icomoon.woff"/>
+           <file href="vendor/elucidat-v2.0.min.css"/>
+           <file href="vendor/fontawesome/icomoon.ttf"/>
+           <file href="vendor/fontawesome/icomoon.eot"/>
+           <file href="vendor/fontawesome/icomoon.svg"/>
+           <file href="vendor/fontawesome/icomoon.woff"/>
+           <file href="vendor/preview_commenting.build.min.js"/>
+           <file href="vendor/placeholder-image.png"/>
+           <file href="vendor/jquery.xdr.js"/>
+           <file href="vendor/typicon/icomoon.ttf"/>
+           <file href="vendor/typicon/icomoon.eot"/>
+           <file href="vendor/typicon/icomoon.svg"/>
+           <file href="vendor/typicon/icomoon.woff"/>
+           <file href="vendor/style-editcontrols.build.min.css"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+           <file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+           <file href="vendor/bootstrap/glyphicons-halflings.png"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+           <file href="vendor/elucidat-v5.0.min.js"/>
+           <file href="launch.html"/>
+           <file href="login.html"/>
+           <file href="pages/61fb097736832.js"/>
+           <file href="pages/61fb09770e5e5.js"/>
+           <file href="pages/61fb097733e2b.js"/>
+           <file href="pages/61fb097748ee2.js"/>
+           <file href="pages/61fb09770b226.js"/>
+           <file href="pages/61fd68f38be72.js"/>
+           <file href="assets/b9578aceec6636b01fd6bdf77d193757.jpg"/>
+           <file href="assets/e2d67c413f8b96a15e616675cfe497d5.png"/>
+           <file href="assets/17b1a0c3b8e2a8dbfe3055dd071705e3.png"/>
+           <file href="assets/63ebced63b182.js"/>
+           <file href="assets/33b22d6dabcd41109d4bc5f3c420c6d2.png"/>
+           <file href="assets/01f7504060a46e7cf874c2adf85f61af.png"/>
+           <file href="assets/63ebced63b182.css"/>
+           <file href="assets/72c07347f1cf0ee0493d5e779509b9e5.png"/>
+        </resource>
+    </resources>
+</manifest>

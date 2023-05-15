@@ -1,0 +1,57 @@
+{
+    "made_files": {
+        "0": {
+            "file_name": "63ebced63b182.css",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/assets\/63ebced63b182.css",
+            "content_type": "text\/css"
+        },
+        "1": {
+            "file_name": "63ebced63b182.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/assets\/63ebced63b182.js",
+            "content_type": "application\/javascript"
+        },
+        "2": {
+            "file_name": "61fb09770b226.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fb09770b226.js",
+            "content_type": "application\/javascript"
+        },
+        "3": {
+            "file_name": "61fb09770e5e5.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fb09770e5e5.js",
+            "content_type": "application\/javascript"
+        },
+        "4": {
+            "file_name": "61fb097733e2b.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fb097733e2b.js",
+            "content_type": "application\/javascript"
+        },
+        "5": {
+            "file_name": "61fb097736832.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fb097736832.js",
+            "content_type": "application\/javascript"
+        },
+        "6": {
+            "file_name": "61fd68f38be72.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fd68f38be72.js",
+            "content_type": "application\/javascript"
+        },
+        "7": {
+            "file_name": "61fb097748ee2.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/pages\/61fb097748ee2.js",
+            "content_type": "application\/javascript"
+        },
+        "launch.html": {
+            "file_name": "launch.html",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/launch.html",
+            "content_type": "text\/html"
+        },
+        "8": {
+            "file_name": "login.html",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebced63b182\/login.html",
+            "content_type": "text\/html"
+        }
+    },
+    "homepage_url": "61fb09770b226.js",
+    "css_url": "63ebced63b182.css",
+    "js_url": "63ebced63b182.js"
+}
